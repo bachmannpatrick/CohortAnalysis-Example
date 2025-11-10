@@ -1,7 +1,7 @@
 # CohortAnalysis-Example
 In this example, you can analyze customer retention over time using cohort analysis. 
 A 'cohort' is a group of customers who share a common characteristic - here, their signup month. 
-Your goal is to calculate retention rates for each cohort and visualize them in a heatmap.
+The goal is to calculate retention rates for each cohort and visualize them in a heatmap.
 
 #Dataset Description
 The dataset ('cohort_exercise_dataset.csv') contains:
